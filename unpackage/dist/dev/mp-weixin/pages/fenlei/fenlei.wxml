@@ -1,0 +1,1 @@
+<view class="box data-v-39d7eb98"><bi-zhi wx:for="{{a}}" wx:for-item="item" class="data-v-39d7eb98" u-i="{{item.a}}" bind:__l="__l"></bi-zhi></view>

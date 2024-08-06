@@ -1,0 +1,1 @@
+<view class="biaoti data-v-5699d7a8"><view class="left data-v-5699d7a8"><slot name="header"></slot></view><view class="right data-v-5699d7a8"><slot name="footer"></slot></view></view>
